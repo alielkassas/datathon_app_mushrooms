@@ -1,15 +1,9 @@
 students = [
-    "Impure Regressors", # Sebastian & Aslam & Komal
-    "Daniel_A",
-    "Daniel_D",
-    "Huy",
-    "Icaro",
-    "Ilkay",
-    "Kayla",
-    "Nabil",
-    "Orjada",
-    "Peter",
-    "Sherwan",
-    "ToSi", # Tobias & Simon
+    "Zollstock",#Elyesa and Justin
+    "Olma", #Olga and manuel
+    "Anas",
+    "Angelos",
+    "team_Ismail_Gauss_Herman",
+    "Prachi",
     "wbs_bot"
 ]
